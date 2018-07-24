@@ -40,5 +40,5 @@ use the same method for Semis, Quarters and Round of 16 games.
 
 ## Wish to Contribute?
 
-Anyone who loves the idea of ForFans and wishes to be a part of it or contribute to the project, please feel free to reach out to me.
+Anyone who loves the idea of FORFANS and wishes to be a part of it or contribute to the project, please feel free to reach out to me.
 You can contact me on adinalge@gmail.com
