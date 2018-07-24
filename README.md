@@ -4,7 +4,7 @@ A streamlined Smart Contract solution to allocate tickets to fans for Knockout t
 
 # What is FORFANS?
 
-The idea behind FORFANS is simple.
+The idea behind FORFANS is simple. It can be used for tournaments using the Knockout format.
 
 Traditionally, one ticket would be sold to just one individual. Using FORFANS, we can sell the same
 ticket to multiple individuals depending on the team they are supporting. Only the individual whose team
