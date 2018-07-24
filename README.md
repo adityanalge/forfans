@@ -1,7 +1,8 @@
 # forfans
+
 A streamlined Smart Contract solution to allocate Knockout Tournament tickets to fans using Blockchain.
 
-What is FORFANS?
+# What is FORFANS?
 
 The idea behind FORFANS is simple.
 
@@ -11,4 +12,4 @@ makes it to the game is allowed to redeem the ticket.
 
 Since there would be two teams in the game, this process has to be divided into two parts before applying.
 
-To learn more about the inception of the idea as well as how this solution is applied, read the about page.
+<b>To learn more about the FORFANS as well as how this solution is applied, read the about page.</b>
