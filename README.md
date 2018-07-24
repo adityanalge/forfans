@@ -35,7 +35,7 @@ use the same method for Semis, Quarters and Round of 16 games.
 ## Files included in the project
 
 * About - PDF containing details about FORFANS
-* NetProfit - Smart Contract that allows us to compare revenues obtained by selling tickets traditional way VS using ForFans
+* NetProfit - Smart Contract that allows us to compare revenues obtained by selling tickets the traditional way VS using ForFans
 
 ## Wish to Contribute?
 
