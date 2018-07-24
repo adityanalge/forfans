@@ -36,6 +36,7 @@ use the same method for Semis, Quarters and Round of 16 games.
 
 * About - PDF containing details about FORFANS
 * NetProfit - Smart Contract that allows us to compare revenues obtained by selling tickets the traditional way VS using ForFans
+* NetProfit_Python - A python format file for those who are not yet familiar with Solidity
 
 ## Wish to Contribute?
 
