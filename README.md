@@ -2,7 +2,7 @@
 
 A streamlined Smart Contract solution to allocate tickets to fans for Knockout tournament games using Blockchain.
 
-# What is FORFANS?
+## What is FORFANS?
 
 The idea behind FORFANS is simple. It can be used for tournaments using the Knockout format.
 
@@ -12,7 +12,7 @@ makes it to the game is allowed to redeem the ticket.
 
 Since there would be two teams in the game, this process has to be divided into two parts before applying.
 
-# How does it work?
+## How does it work?
 
 For the purpose of explanation, assume we have 1000 tickets to sell for a Knockout tournament that has
 16 teams. Traditionally, we would sell one ticket to one person and that would be it. Using FORFANS,
@@ -31,3 +31,5 @@ refunded the amount they paid for the ticket – the processing fee.
 Where initially we would have made a profit of 1000 * processing fee, we can now make a net profit of
 1000 * processing fee * 16. Thus, increasing the profit 16 times. And this is just for the Finals. We can
 use the same method for Semis, Quarters and Round of 16 games.
+
+## Files included in the project
