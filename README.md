@@ -1,6 +1,6 @@
 # forfans
 
-A streamlined Smart Contract solution to allocate Knockout Tournament tickets to fans using Blockchain.
+A streamlined Smart Contract solution to allocate tickets to fans for Knockout tournament games using Blockchain.
 
 # What is FORFANS?
 
