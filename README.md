@@ -33,3 +33,11 @@ Where initially we would have made a profit of 1000 * processing fee, we can now
 use the same method for Semis, Quarters and Round of 16 games.
 
 ## Files included in the project
+
+* About - PDF containing details about FORFANS
+* NetProfit - Smart Contract that allows us to compare revenues obtained by selling tickets traditional way VS using ForFans
+
+## Wish to Contribute?
+
+Anyone who loves the idea of ForFans and wishes to be a part of it or contribute to the project, please feel free to reach out to me.
+You can contact me on adinalge@gmail.com
